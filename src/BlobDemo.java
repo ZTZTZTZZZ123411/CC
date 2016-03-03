@@ -14,7 +14,6 @@ import static org.bytedeco.javacpp.opencv_imgproc.*;
 //*             - Dave Grossman                                 *//
 //*                                                             *//
 ///////////////////////////////////////////////////////////////////
-///update2222222222
 public class BlobDemo
 {
     public static void main(String[] args)
